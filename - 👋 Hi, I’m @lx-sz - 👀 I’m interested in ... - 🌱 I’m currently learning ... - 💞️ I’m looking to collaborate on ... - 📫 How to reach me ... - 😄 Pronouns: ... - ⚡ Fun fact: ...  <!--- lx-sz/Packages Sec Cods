@@ -1,0 +1,7 @@
+Apt update
+Apt upgrade 
+pkg install git 
+git clone 
+pkg install python 
+Pkg install python -y
+ls 
